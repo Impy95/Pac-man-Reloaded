@@ -1,0 +1,5 @@
+
+The pacman and ghost images are all 40x40
+
+The atlas.png and atlas.json contain the images as a texture atlas. 
+
